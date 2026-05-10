@@ -25,7 +25,6 @@ for filename in sorted(os.listdir()):
     invoice['Customer'] = text.split('Customer:')[-1].split('\n')[0].strip()
     invoice['Date'] = text.split('Date:')[-1].split('\n')[0].strip()
     invoice['Reference Code'] = text.split('Reference Code:')[-1].split('\n')[0].strip()
-    invoice['Invoice No'] = text.split('Invoice No:')[-1].split('\n')[0].strip()
     
     # Extract table data
     services = []
