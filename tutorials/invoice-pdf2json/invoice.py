@@ -16,7 +16,7 @@ for filename in sorted(os.listdir()):
   
   # Read PDF file
   with pdfplumber.open(filename) as pdf:
-    # Extract tect from PDF
+    # Extract text from PDF
     text = pdf.pages[0].extract_text() + '\n'
     
     # Extract header
