@@ -1,0 +1,402 @@
+[
+  {
+    "File Name": "invoice_1.pdf",
+    "Invoice No": "INV-929791",
+    "Customer": "Cobalt Digital Agency",
+    "Date": "19/6/2026",
+    "Reference Code": "REF-4747-X",
+    "services": [
+      {
+        "Service Description": "API Integration Services",
+        "Hours": "40",
+        "Rate (USD)": "$56",
+        "Line Total": "$2240"
+      },
+      {
+        "Service Description": "Blockchain Smart Contract Dev",
+        "Hours": "39",
+        "Rate (USD)": "$123",
+        "Line Total": "$4797"
+      },
+      {
+        "Service Description": "QA Testing Suite Implementation",
+        "Hours": "18",
+        "Rate (USD)": "$126",
+        "Line Total": "$2268"
+      },
+      {
+        "Service Description": "IT Support Retainer",
+        "Hours": "9",
+        "Rate (USD)": "$223",
+        "Line Total": "$2007"
+      },
+      {
+        "Service Description": "E-commerce Backend Build",
+        "Hours": "36",
+        "Rate (USD)": "$205",
+        "Line Total": "$7380"
+      },
+      {
+        "Service Description": "Performance Optimization",
+        "Hours": "36",
+        "Rate (USD)": "$154",
+        "Line Total": "$5544"
+      },
+      {
+        "Service Description": "Mobile App Development",
+        "Hours": "12",
+        "Rate (USD)": "$169",
+        "Line Total": "$2028"
+      },
+      {
+        "Service Description": "Network Architecture Design",
+        "Hours": "26",
+        "Rate (USD)": "$108",
+        "Line Total": "$2808"
+      }
+    ],
+    "Subtotal": "$29072",
+    "Tax (15%)": "$4360.8",
+    "Total Due": "$33432.8",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-4065542"
+  },
+  {
+    "File Name": "invoice_2.pdf",
+    "Invoice No": "INV-343694",
+    "Customer": "Apex Financial Advisors",
+    "Date": "28/9/2026",
+    "Reference Code": "REF-2265-X",
+    "services": [
+      {
+        "Service Description": "Performance Optimization",
+        "Hours": "10",
+        "Rate (USD)": "$241",
+        "Line Total": "$2410"
+      },
+      {
+        "Service Description": "Mobile App Development",
+        "Hours": "35",
+        "Rate (USD)": "$60",
+        "Line Total": "$2100"
+      },
+      {
+        "Service Description": "Custom CRM Development",
+        "Hours": "9",
+        "Rate (USD)": "$138",
+        "Line Total": "$1242"
+      }
+    ],
+    "Subtotal": "$5752",
+    "Tax (15%)": "$862.8",
+    "Total Due": "$6614.8",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-8516873"
+  },
+  {
+    "File Name": "invoice_3.pdf",
+    "Invoice No": "INV-666479",
+    "Customer": "Nordic Tech Solutions Ltd",
+    "Date": "4/10/2026",
+    "Reference Code": "REF-3144-X",
+    "services": [
+      {
+        "Service Description": "Network Architecture Design",
+        "Hours": "4",
+        "Rate (USD)": "$190",
+        "Line Total": "$760"
+      },
+      {
+        "Service Description": "Custom CRM Development",
+        "Hours": "18",
+        "Rate (USD)": "$125",
+        "Line Total": "$2250"
+      },
+      {
+        "Service Description": "Mobile App Development",
+        "Hours": "7",
+        "Rate (USD)": "$67",
+        "Line Total": "$469"
+      },
+      {
+        "Service Description": "Blockchain Smart Contract Dev",
+        "Hours": "33",
+        "Rate (USD)": "$216",
+        "Line Total": "$7128"
+      },
+      {
+        "Service Description": "QA Testing Suite Implementation",
+        "Hours": "5",
+        "Rate (USD)": "$124",
+        "Line Total": "$620"
+      }
+    ],
+    "Subtotal": "$11227",
+    "Tax (15%)": "$1684.05",
+    "Total Due": "$12911.05",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-3056032"
+  },
+  {
+    "File Name": "invoice_4.pdf",
+    "Invoice No": "INV-511679",
+    "Customer": "BlueRiver Analytics",
+    "Date": "23/2/2026",
+    "Reference Code": "REF-7744-X",
+    "services": [
+      {
+        "Service Description": "Serverless Deployment Setup",
+        "Hours": "19",
+        "Rate (USD)": "$120",
+        "Line Total": "$2280"
+      },
+      {
+        "Service Description": "Cybersecurity Audit",
+        "Hours": "5",
+        "Rate (USD)": "$141",
+        "Line Total": "$705"
+      },
+      {
+        "Service Description": "AI Model Training",
+        "Hours": "37",
+        "Rate (USD)": "$85",
+        "Line Total": "$3145"
+      },
+      {
+        "Service Description": "Business Analytics Dashboard",
+        "Hours": "32",
+        "Rate (USD)": "$100",
+        "Line Total": "$3200"
+      },
+      {
+        "Service Description": "E-commerce Backend Build",
+        "Hours": "24",
+        "Rate (USD)": "$101",
+        "Line Total": "$2424"
+      }
+    ],
+    "Subtotal": "$11754",
+    "Tax (15%)": "$1763.1",
+    "Total Due": "$13517.1",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-2593228"
+  },
+  {
+    "File Name": "invoice_5.pdf",
+    "Invoice No": "INV-279065",
+    "Customer": "BlueRiver Analytics",
+    "Date": "16/12/2026",
+    "Reference Code": "REF-8771-X",
+    "services": [
+      {
+        "Service Description": "QA Testing Suite Implementation",
+        "Hours": "13",
+        "Rate (USD)": "$130",
+        "Line Total": "$1690"
+      },
+      {
+        "Service Description": "Performance Optimization",
+        "Hours": "20",
+        "Rate (USD)": "$68",
+        "Line Total": "$1360"
+      },
+      {
+        "Service Description": "API Integration Services",
+        "Hours": "9",
+        "Rate (USD)": "$104",
+        "Line Total": "$936"
+      },
+      {
+        "Service Description": "Serverless Deployment Setup",
+        "Hours": "6",
+        "Rate (USD)": "$212",
+        "Line Total": "$1272"
+      },
+      {
+        "Service Description": "Technical SEO Optimization",
+        "Hours": "15",
+        "Rate (USD)": "$231",
+        "Line Total": "$3465"
+      },
+      {
+        "Service Description": "UI/UX Design Sprint",
+        "Hours": "13",
+        "Rate (USD)": "$211",
+        "Line Total": "$2743"
+      },
+      {
+        "Service Description": "Legacy System Refactoring",
+        "Hours": "15",
+        "Rate (USD)": "$55",
+        "Line Total": "$825"
+      },
+      {
+        "Service Description": "Business Analytics Dashboard",
+        "Hours": "18",
+        "Rate (USD)": "$137",
+        "Line Total": "$2466"
+      }
+    ],
+    "Subtotal": "$14757",
+    "Tax (15%)": "$2213.55",
+    "Total Due": "$16970.55",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-6923229"
+  },
+  {
+    "File Name": "invoice_6.pdf",
+    "Invoice No": "INV-824091",
+    "Customer": "Cobalt Digital Agency",
+    "Date": "5/10/2026",
+    "Reference Code": "REF-2363-X",
+    "services": [
+      {
+        "Service Description": "Performance Optimization",
+        "Hours": "25",
+        "Rate (USD)": "$197",
+        "Line Total": "$4925"
+      },
+      {
+        "Service Description": "Database Migration",
+        "Hours": "26",
+        "Rate (USD)": "$129",
+        "Line Total": "$3354"
+      },
+      {
+        "Service Description": "E-commerce Backend Build",
+        "Hours": "14",
+        "Rate (USD)": "$117",
+        "Line Total": "$1638"
+      },
+      {
+        "Service Description": "API Integration Services",
+        "Hours": "7",
+        "Rate (USD)": "$150",
+        "Line Total": "$1050"
+      },
+      {
+        "Service Description": "DevOps Automation",
+        "Hours": "26",
+        "Rate (USD)": "$173",
+        "Line Total": "$4498"
+      },
+      {
+        "Service Description": "Cybersecurity Audit",
+        "Hours": "10",
+        "Rate (USD)": "$139",
+        "Line Total": "$1390"
+      },
+      {
+        "Service Description": "Technical SEO Optimization",
+        "Hours": "38",
+        "Rate (USD)": "$246",
+        "Line Total": "$9348"
+      }
+    ],
+    "Subtotal": "$26203",
+    "Tax (15%)": "$3930.45",
+    "Total Due": "$30133.45",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-9226306"
+  },
+  {
+    "File Name": "invoice_7.pdf",
+    "Invoice No": "INV-772339",
+    "Customer": "Orion Logistics Group",
+    "Date": "24/1/2026",
+    "Reference Code": "REF-5309-X",
+    "services": [
+      {
+        "Service Description": "Performance Optimization",
+        "Hours": "16",
+        "Rate (USD)": "$199",
+        "Line Total": "$3184"
+      },
+      {
+        "Service Description": "Technical SEO Optimization",
+        "Hours": "19",
+        "Rate (USD)": "$84",
+        "Line Total": "$1596"
+      },
+      {
+        "Service Description": "Network Architecture Design",
+        "Hours": "17",
+        "Rate (USD)": "$83",
+        "Line Total": "$1411"
+      },
+      {
+        "Service Description": "Cloud Infrastructure Setup",
+        "Hours": "3",
+        "Rate (USD)": "$182",
+        "Line Total": "$546"
+      },
+      {
+        "Service Description": "QA Testing Suite Implementation",
+        "Hours": "19",
+        "Rate (USD)": "$112",
+        "Line Total": "$2128"
+      },
+      {
+        "Service Description": "Business Analytics Dashboard",
+        "Hours": "37",
+        "Rate (USD)": "$234",
+        "Line Total": "$8658"
+      },
+      {
+        "Service Description": "Data Pipeline Engineering",
+        "Hours": "12",
+        "Rate (USD)": "$197",
+        "Line Total": "$2364"
+      }
+    ],
+    "Subtotal": "$19887",
+    "Tax (15%)": "$2983.05",
+    "Total Due": "$22870.05",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-9072380"
+  },
+  {
+    "File Name": "invoice_8.pdf",
+    "Invoice No": "INV-421304",
+    "Customer": "Vertex Media Studios",
+    "Date": "3/7/2026",
+    "Reference Code": "REF-3110-X",
+    "services": [
+      {
+        "Service Description": "Blockchain Smart Contract Dev",
+        "Hours": "19",
+        "Rate (USD)": "$211",
+        "Line Total": "$4009"
+      },
+      {
+        "Service Description": "Cloud Infrastructure Setup",
+        "Hours": "29",
+        "Rate (USD)": "$218",
+        "Line Total": "$6322"
+      },
+      {
+        "Service Description": "Network Architecture Design",
+        "Hours": "34",
+        "Rate (USD)": "$172",
+        "Line Total": "$5848"
+      },
+      {
+        "Service Description": "Mobile App Development",
+        "Hours": "37",
+        "Rate (USD)": "$225",
+        "Line Total": "$8325"
+      },
+      {
+        "Service Description": "Legacy System Refactoring",
+        "Hours": "21",
+        "Rate (USD)": "$107",
+        "Line Total": "$2247"
+      }
+    ],
+    "Subtotal": "$26751",
+    "Tax (15%)": "$4012.65",
+    "Total Due": "$30763.65",
+    "Payment Terms": "Net 30 days. Late payments incur 2% monthly interest.",
+    "Bank Reference": "BR-1750383"
+  }
+]
