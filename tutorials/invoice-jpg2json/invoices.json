@@ -1,0 +1,615 @@
+[
+  {
+    "Invoice no": "51109338",
+    "Date of issue": "04/13/2013",
+    "Seller name": "Andrews, Kirby and Valdez",
+    "Seller address": "58861 Gonzalez Prairie, Lake Daniellefurt, IN 57228",
+    "Seller tax Id": "945-82-2137",
+    "Seller IBAN": "GB75MCRL06841367619257",
+    "Client name": "Becker Ltd",
+    "Client address": "8012 Stewart Summit Apt. 455, North Douglas, AZ 95355",
+    "Client tax id": "942-80-0517",
+    "Items": [
+      {
+        "Description": "CLEARANCE! Fast Dell Desktop Computer PC DUAL CORE WINDOWS 10 4/8/16GB RAM",
+        "Qty": "  3,00",
+        "UM": " each",
+        "Net price": " 209,00",
+        "Net worth": "  627,00",
+        "VAT [%]": "10%",
+        "Gross worth": "  689,70"
+      },
+      {
+        "Description": "AMD GX-212JC 1.2GHz 4GB RAM TESTED !!READ BELOW!!",
+        "Qty": "  5,00",
+        "UM": "each",
+        "Net price": "37,75",
+        "Net worth": "  188,75",
+        "VAT [%]": "10%",
+        "Gross worth": "  207,63"
+      },
+      {
+        "Description": "gaming pc desktop computer",
+        "Qty": "1,00",
+        "UM": "  each",
+        "Net price": "400,00",
+        "Net worth": " 400,00",
+        "VAT [%]": "  10%",
+        "Gross worth": " 440,00"
+      },
+      {
+        "Description": "12-Core Gaming Computer Desktop PC Tower Affordable GAMING PC 8GB AMD Vega RGB",
+        "Qty": " 3,00",
+        "UM": "  each",
+        "Net price": "  464,89",
+        "Net worth": " 1 394,67",
+        "VAT [%]": "10%",
+        "Gross worth": " 1 534,14"
+      },
+      {
+        "Description": "Custom Build Dell Optiplex 9020 MT i5-4570 3.20GHz Desktop Computer PC",
+        "Qty": " 5,00",
+        "UM": " each",
+        "Net price": " 221,99",
+        "Net worth": " 1 109,95",
+        "VAT [%]": "10%",
+        "Gross worth": " 1 220,95"
+      },
+      {
+        "Description": "Dell Optiplex 990 MT Computer PC Quad Core i7 3.4GHz 16GB 2TB HD Windows 10 Pro",
+        "Qty": "  4,00",
+        "UM": "  each",
+        "Net price": "  269,95",
+        "Net worth": " 1 079,80",
+        "VAT [%]": " 10%",
+        "Gross worth": " 1 187,78"
+      },
+      {
+        "Description": "Dell Core 2 Duo Desktop Computer | Windows XP Pro | 4GB | 500GB",
+        "Qty": " 5,00",
+        "UM": "  each",
+        "Net price": "  168,00",
+        "Net worth": "840,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "924,00"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "5 640,17",
+      "VAT": "  564,02",
+      "Gross worth": "  6 204,19"
+    }
+  },
+  {
+    "Invoice no": "54661411",
+    "Date of issue": "07/29/2020",
+    "Seller name": "Fitzgerald Group",
+    "Seller address": "65165 Mark Vista Suite 750, Kaylaberg, IA 50008",
+    "Seller tax Id": "928-97-0774",
+    "Seller IBAN": "GB34CHOA94863267286764",
+    "Client name": "Powell-Floyd",
+    "Client address": "1956 Adams Island Apt. 000, Wheelerside, KY 77866",
+    "Client tax id": "913-98-4271",
+    "Items": [
+      {
+        "Description": "Bohemia Style Round Morocco Area Rug Tassel Carpet Mat Floor Blanket Room Decor",
+        "Qty": "3,00",
+        "UM": " each",
+        "Net price": "  46,89",
+        "Net worth": "140,67",
+        "VAT [%]": "10%",
+        "Gross worth": "  154,74"
+      },
+      {
+        "Description": "Color Skull Series Small Large Long Floor Carpet Area Rugs Various Size Soft Rug",
+        "Qty": "  3,00",
+        "UM": "  each",
+        "Net price": "  36,30",
+        "Net worth": " 108,90",
+        "VAT [%]": "  10%",
+        "Gross worth": " 119,79"
+      },
+      {
+        "Description": "3D Swirl Print Optical Illusion Area Rug Carpet Floor Pad Non-slip Doormat Mats",
+        "Qty": "  1,00",
+        "UM": "  each",
+        "Net price": "11,96",
+        "Net worth": " 11,96",
+        "VAT [%]": " 10%",
+        "Gross worth": " 13,16"
+      },
+      {
+        "Description": "Rug Area Hand Knotted Wool Oriental Carpet Vintage Geometric Traditional Handmad",
+        "Qty": " 3,00",
+        "UM": " each",
+        "Net price": " 410,00",
+        "Net worth": " 1 230,00",
+        "VAT [%]": "10%",
+        "Gross worth": " 1 353,00"
+      },
+      {
+        "Description": "Birds Handmade Silk Rug Carpet Tapestry LH691A",
+        "Qty": " 3,00",
+        "UM": "each",
+        "Net price": "  188,00",
+        "Net worth": "  564,00",
+        "VAT [%]": "10%",
+        "Gross worth": "  620,40"
+      },
+      {
+        "Description": "Indian Green Red Color 2.6'x4' Carpet Hand Knotted Living Room Traditional Chobi",
+        "Qty": "3,00",
+        "UM": "  each",
+        "Net price": "  215,00",
+        "Net worth": "645,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "709,50"
+      },
+      {
+        "Description": "Yilong 3'x5' Blue HandKnotted Silk Area Rug Antistatic Home Decor Carpet 975B",
+        "Qty": " 5,00",
+        "UM": "  each",
+        "Net price": "  900,00",
+        "Net worth": " 4 500,00",
+        "VAT [%]": " 10%",
+        "Gross worth": " 4 950,00"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "  7 200,53",
+      "VAT": "  720,05",
+      "Gross worth": " 7 920,58"
+    }
+  },
+  {
+    "Invoice no": "12590251",
+    "Date of issue": "01/17/2016",
+    "Seller name": "Harrison, Tucker and Choi",
+    "Seller address": "012 Rachel Inlet Apt. 289, Burgessmouth, OK 81442",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Logan-Rodriguez",
+    "Client address": "140 Gates Crossroad Apt. 980, Cannonchester, NV 21140",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Lilly Pulitzer 8 Sunkissed with Glow Janice Shift Dress",
+        "Qty": "  4,00",
+        "UM": "  each",
+        "Net price": " 56,89",
+        "Net worth": "227,56",
+        "VAT [%]": " 10%",
+        "Gross worth": "250,32"
+      },
+      {
+        "Description": "db Yellow Link Print Fit and Flare Sleeveless Dress Sz M/L",
+        "Qty": " 1,00",
+        "UM": "  each",
+        "Net price": " 14,99",
+        "Net worth": "  14,99",
+        "VAT [%]": " 10%",
+        "Gross worth": "  16,49"
+      },
+      {
+        "Description": "FashionNova \u201cForecasting You\u201d MAXI DRESS TAUPE SZ M",
+        "Qty": "  4,00",
+        "UM": "  each",
+        "Net price": "25,00",
+        "Net worth": "100,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "110,00"
+      },
+      {
+        "Description": "balmain dress 36",
+        "Qty": "  1,00",
+        "UM": "  each",
+        "Net price": "1 550,00",
+        "Net worth": " 1 550,00",
+        "VAT [%]": "10%",
+        "Gross worth": " 1 705,00"
+      },
+      {
+        "Description": "Women Dress Gradient Color Long Sleeve Sexy Club Bodycon Mini Dresses Casual",
+        "Qty": "5,00",
+        "UM": "  each",
+        "Net price": "7,59",
+        "Net worth": "  37,95",
+        "VAT [%]": "  10%",
+        "Gross worth": "  41,75"
+      },
+      {
+        "Description": "J crew mercantile Knitted Tweed Dress Size 4 Black And White",
+        "Qty": "  4,00",
+        "UM": "  each",
+        "Net price": " 26,00",
+        "Net worth": "104,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "114,40"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "  2 034,50",
+      "VAT": " 203,45",
+      "Gross worth": " 2/237, 95)"
+    }
+  },
+  {
+    "Invoice no": "74980573",
+    "Date of issue": "09/27/2015",
+    "Seller name": "Wileyshire, SC 58295",
+    "Seller address": "IBAN: GBO2HMXX72577746298746, ",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Murillomouth, AZ 66593",
+    "Client address": "IBAN: GBO2HMXX72577746298746, ",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Teva Hurricane 1019390 All Black Sandals with Hook and Loop Closure, Youth's 5",
+        "Qty": "2,00",
+        "UM": "  each",
+        "Net price": "  9,99",
+        "Net worth": " 19,98",
+        "VAT [%]": " 10%",
+        "Gross worth": " 21,98"
+      },
+      {
+        "Description": "Keen Waterproof Hiking Shoes Kids Boys Size 12 Brown Black Outdoor Sneakers",
+        "Qty": "3,00",
+        "UM": "  each",
+        "Net price": "35,97",
+        "Net worth": "107,91",
+        "VAT [%]": " 10%",
+        "Gross worth": "118,70"
+      },
+      {
+        "Description": "KushyShoo Children Kid Rain Boot Shoes Rubber, Monkey, Size Youth 1",
+        "Qty": " 2,00",
+        "UM": " each",
+        "Net price": "22,99",
+        "Net worth": " 45,98",
+        "VAT [%]": "10%",
+        "Gross worth": " 50,58"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "173,87",
+      "VAT": "  17,39",
+      "Gross worth": "  191,26"
+    }
+  },
+  {
+    "Invoice no": "53553822",
+    "Date of issue": "07/24/2012",
+    "Seller name": "Lee-Brown",
+    "Seller address": "082 Christopher Club Apt. 771, Thomasberg, OH 42949",
+    "Seller tax Id": "926-74-9803",
+    "Seller IBAN": "GB21NRBX59248288874823",
+    "Client name": "Bass, Kelly and Barnes",
+    "Client address": "54916 Diana Passage Apt. 658, East Steven, NV 32196",
+    "Client tax id": "935-94-0783",
+    "Items": [
+      {
+        "Description": "24\" Marble White Coffee Top Table Inlay Lapis Stone Furniture Indoor Decor W045",
+        "Qty": "3,00",
+        "UM": "  each",
+        "Net price": "918,17",
+        "Net worth": " 2 754,51",
+        "VAT [%]": " 10%",
+        "Gross worth": " 3 029,96"
+      },
+      {
+        "Description": "6'x3' Marvelous Marble Living Room Table Top Inlay Scagliola Inlay Decor H602C",
+        "Qty": " 4,00",
+        "UM": "  each",
+        "Net price": "5 087,20",
+        "Net worth": "  20 348,80",
+        "VAT [%]": "10%",
+        "Gross worth": "  22 383,68"
+      },
+      {
+        "Description": "12\" White Marble Coffee Table Top Lapis Turquoise Floral Inlay Home Decors W538",
+        "Qty": " 1,00",
+        "UM": "  each",
+        "Net price": "295,73",
+        "Net worth": " 295,73",
+        "VAT [%]": " 10%",
+        "Gross worth": " 325,30"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "  23 399,04",
+      "VAT": "  2 339,90",
+      "Gross worth": " 25 738,94"
+    }
+  },
+  {
+    "Invoice no": "80489404",
+    "Date of issue": "12/21/2013",
+    "Seller name": "Gonzalez LLC",
+    "Seller address": "244 Nicholas Bypass, ",
+    "Seller tax Id": "972-83-4569",
+    "Seller IBAN": "GB430YPG18782157635961",
+    "Client name": "Nelson PLC",
+    "Client address": "484 Lisa Pine, ",
+    "Client tax id": "908-79-1562",
+    "Items": [
+      {
+        "Description": "New Fully Automatic Red Wine Bottle Opener Electric Red Wine Opener Corkscrew",
+        "Qty": " 1,00",
+        "UM": "  each",
+        "Net price": " 25,99",
+        "Net worth": "  25,99",
+        "VAT [%]": " 10%",
+        "Gross worth": "  28,59"
+      },
+      {
+        "Description": "38/40/42/44mm Silicone Sport iWatch Band Strap for Apple Watch Series 6 5 4 3 SE",
+        "Qty": "2,00",
+        "UM": "  each",
+        "Net price": "  3,68",
+        "Net worth": "7,36",
+        "VAT [%]": " 10%",
+        "Gross worth": "8,10"
+      },
+      {
+        "Description": "Vintage Crystal Red Wine Glasses NOS West Germany 1983 6 10 ounce elegant stems",
+        "Qty": "4,00",
+        "UM": "  each",
+        "Net price": " 35,45",
+        "Net worth": " 141,80",
+        "VAT [%]": " 10%",
+        "Gross worth": " 155,98"
+      },
+      {
+        "Description": "Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver",
+        "Qty": "  2,00",
+        "UM": "  each",
+        "Net price": "  19,98",
+        "Net worth": "  39,96",
+        "VAT [%]": "  10%",
+        "Gross worth": "  43,96"
+      },
+      {
+        "Description": "QcoQce Wine Bottle Opener",
+        "Qty": " 4,00",
+        "UM": "  each",
+        "Net price": "  30,00",
+        "Net worth": " 120,00",
+        "VAT [%]": "  10%",
+        "Gross worth": " 132,00"
+      },
+      {
+        "Description": "9.5 Inch Dinosaur Bones Wine Bottle Holder",
+        "Qty": "  2,00",
+        "UM": "  each",
+        "Net price": " 24,00",
+        "Net worth": "  48,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "  52,80"
+      },
+      {
+        "Description": "Wine Rack",
+        "Qty": "  5,00",
+        "UM": "  each",
+        "Net price": "  9,00",
+        "Net worth": "  45,00",
+        "VAT [%]": " 10%",
+        "Gross worth": "  49,50"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "  428,11",
+      "VAT": "42,81",
+      "Gross worth": " 470,92"
+    }
+  },
+  {
+    "Invoice no": "45234802",
+    "Date of issue": "09/06/2013",
+    "Seller name": "Williams-Burns",
+    "Seller address": "5316 Rachel Plain, Parrishborough, OR 24949",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Richards-Lester",
+    "Client address": "55143 Daugherty Shores, Lake Lindseytown, ME 94332",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Core i3 8GB 500GB HD DVD Wifi Windows 10 PC",
+        "Qty": "  1,00",
+        "UM": "  each",
+        "Net price": "114,95",
+        "Net worth": " 114,95",
+        "VAT [%]": "  10%",
+        "Gross worth": " 126,45"
+      },
+      {
+        "Description": "Custom Build HP Desktop Computer 16GB | 2TB | SSD | Windows 10 Windows 7 PC WiFi",
+        "Qty": "  2,00",
+        "UM": "  each",
+        "Net price": " 329,00",
+        "Net worth": "658,00",
+        "VAT [%]": "10%",
+        "Gross worth": "723,80"
+      },
+      {
+        "Description": "Barebone system",
+        "Qty": "  4,00",
+        "UM": "each",
+        "Net price": "  70,00",
+        "Net worth": "  280,00",
+        "VAT [%]": "  10%",
+        "Gross worth": "  308,00"
+      },
+      {
+        "Description": "W5 Pro Mini Pocket PC Windows 10 Computer Stick Intel Z8350 Quad Core",
+        "Qty": " 4,00",
+        "UM": "  each",
+        "Net price": "  119,00",
+        "Net worth": "476,00",
+        "VAT [%]": "10%",
+        "Gross worth": "523,60"
+      },
+      {
+        "Description": "Intel Compute Stick (32GB, Intel Atom, 1.33GHz, 2GB) PC Desktop",
+        "Qty": "  1,00",
+        "UM": "  each",
+        "Net price": "45,00",
+        "Net worth": " 45,00",
+        "VAT [%]": " 10%",
+        "Gross worth": " 49,50"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": " 1573,95",
+      "VAT": " 157,40",
+      "Gross worth": "1 731,35"
+    }
+  },
+  {
+    "Invoice no": "49360354",
+    "Date of issue": "05/03/2017",
+    "Seller name": "Armstrong Inc",
+    "Seller address": "Samuelchester, CO 34580, ",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Yu, Williams and Barry",
+    "Client address": "Lake Sally, CA 02955, ",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Lotto Youth Boys Fuerzapura L500 Jr Soccer Cleats Size 2.5 White Blue M6147 2.5Y",
+        "Qty": "  3,00",
+        "UM": "  each",
+        "Net price": "19,99",
+        "Net worth": " 59,97",
+        "VAT [%]": " 10%",
+        "Gross worth": " 65,97"
+      },
+      {
+        "Description": "Skechers Kids' Snap Sprints Sneaker Size 4 Blue/Black 97546l",
+        "Qty": " 5,00",
+        "UM": "  each",
+        "Net price": " 29,99",
+        "Net worth": " 149,95",
+        "VAT [%]": " 10%",
+        "Gross worth": " 164,94"
+      },
+      {
+        "Description": "Joma Boys Youth Super Copa 102 Soccer Cleats 5.5 White Yellow Blue Futbol NEW",
+        "Qty": "5,00",
+        "UM": "  each",
+        "Net price": "  19,99",
+        "Net worth": "  99,95",
+        "VAT [%]": "  10%",
+        "Gross worth": " 109,94"
+      },
+      {
+        "Description": "Joma Youth Boys Gol 205 Piso Multitaco Soccer Cleats 1.5 White Blue Yellow NEW",
+        "Qty": " 2,00",
+        "UM": "  each",
+        "Net price": "19,99",
+        "Net worth": " 39,98",
+        "VAT [%]": "10%",
+        "Gross worth": " 43,98"
+      },
+      {
+        "Description": "100Pcs Wall Stickers Home Decor Glow In The Dark Star sticker Decal Kids room",
+        "Qty": " 5,00",
+        "UM": "  each",
+        "Net price": "1,70",
+        "Net worth": "8,50",
+        "VAT [%]": " 10%",
+        "Gross worth": "9,35"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": "  358,35",
+      "VAT": " 35,84",
+      "Gross worth": " 394,19"
+    }
+  },
+  {
+    "Invoice no": "61479635",
+    "Date of issue": "07/02/2018",
+    "Seller name": "Kelley-Thomas",
+    "Seller address": ", Port Jennifer, TX 60910",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Green, Kelly and Matthews",
+    "Client address": ", Andersontown, RI 96931",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Executive style",
+        "Qty": "5,00",
+        "UM": "  each",
+        "Net price": "  5,99",
+        "Net worth": "  29,95",
+        "VAT [%]": " 10%",
+        "Gross worth": "  32,95"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": " 29,95",
+      "VAT": "  3,00",
+      "Gross worth": "  32,95"
+    }
+  },
+  {
+    "Invoice no": "76229289",
+    "Date of issue": "12/04/2018",
+    "Seller name": "Rodriguez and Sons",
+    "Seller address": "60916 James Squares Suite 024, Codytown, NM 42311",
+    "Seller tax Id": "",
+    "Seller IBAN": "",
+    "Client name": "Lucero-Brown",
+    "Client address": "20333 Erik Club Apt. 925, Lake Abigailborough, MN 76772",
+    "Client tax id": "",
+    "Items": [
+      {
+        "Description": "Gaming PC Computer RX 580 8GB Ryzen 5 2x8GB Ram",
+        "Qty": " 3,00",
+        "UM": "  each",
+        "Net price": " 400,00",
+        "Net worth": " 1 200,00",
+        "VAT [%]": "10%",
+        "Gross worth": " 1 320,00"
+      },
+      {
+        "Description": "GAMING PC Desktop Computer RGB BUNDLE Intel CORE i7 16GB RAM Nvidia GTX 1650 1TB",
+        "Qty": "  5,00",
+        "UM": "  each",
+        "Net price": "  549,99",
+        "Net worth": " 2 749,95",
+        "VAT [%]": "10%",
+        "Gross worth": " 3 024,95"
+      },
+      {
+        "Description": "computer",
+        "Qty": "  4,00",
+        "UM": " each",
+        "Net price": " 299,99",
+        "Net worth": "1 199,96",
+        "VAT [%]": "10%",
+        "Gross worth": "1 319,96"
+      }
+    ],
+    "Summary": {
+      "VAT [%]": "10%",
+      "Net worth": " 5 149,91",
+      "VAT": " 514,99",
+      "Gross worth": "5 664,90"
+    }
+  }
+]
