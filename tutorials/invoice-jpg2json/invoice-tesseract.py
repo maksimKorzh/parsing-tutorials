@@ -75,7 +75,7 @@ def parse_invoice(filename):
       
       # Create table row item
       item = { 
-        'Description': [row.split('   ')[1]],
+        'Description': [cols[-7]],
         'Qty': cols[-6],
         'UM': cols[-5],
         'Net price': cols[-4],
@@ -87,7 +87,7 @@ def parse_invoice(filename):
     # Populate description
     if more_rows == 1:
       item['Description'].append(row.split('   ')[0])
-  
+    
   # Store last table row
   item['Description'] = ' '.join(item['Description']).strip()
   items.append(item)
@@ -130,10 +130,10 @@ def parse_invoice(filename):
   invoices.append(invoice)
 
 # Read all invoices
-for filename in sorted(os.listdir('./batch1_1/')):
+for filename in sorted(os.listdir('./invoices-tesseract/')):
   if '.jpg' not in filename: continue
   print(f'parsing file: {filename}')
-  parse_invoice('./batch1_1/' + filename)
+  parse_invoice('./invoices-tesseract/' + filename)
 
 # Write invoices to JSON file
 with open('invoices.json', 'w') as out:
