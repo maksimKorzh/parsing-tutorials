@@ -40,7 +40,7 @@ for row in range(31):
   line = []
   
   # Loop over horizontal cells
-  for col in range(31):
+  for col in range(30):
     item_x = start_x+width_x*col
     item_y = start_y+width_y*row
     pixel = pixels[item_x, item_y]
@@ -72,7 +72,7 @@ for col in range(31):
   line = []
 
   # Loop over vertical cells
-  for row in range(31):
+  for row in range(30):
     item_x = start_x+width_x*col
     item_y = start_y+width_y*row
     pixel = pixels[item_x, item_y]
@@ -101,8 +101,8 @@ for row in range(30):
   for col in range(30):
     up = lines_x[row][col]
     down = lines_x[row+1][col]
-    left = lines_y[row][col]
-    right = lines_y[row][col+1]
+    left = lines_y[col][row]
+    right = lines_y[col+1][row]
     line.append([FLOOR, up, down, left, right])
   map.append(line)
 
