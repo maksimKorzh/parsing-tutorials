@@ -44,18 +44,11 @@ for row in range(31):
     item_x = start_x+width_x*col
     item_y = start_y+width_y*row
     pixel = pixels[item_x, item_y]
-    if pixel[0] in range(0, 10):
-      line.append(WALL_H)
-    elif pixel[0] in range(170, 210):
-      #print('WALL_H', item_x, item_y, pixels[item_x, item_y])
-      line.append(EMPTY)
-    elif pixel[0] in range(210, 250):
-      line.append(DOOR_H)
-    elif pixel[0] in range(128, 169):
-      line.append(SECRET_H)
-    else:
-      print('WALL_H', item_x, item_y, pixels[item_x, item_y])
-      line.append('ERROR')
+    if pixel[0] in range(0, 10): line.append(WALL_H)
+    elif pixel[0] in range(170, 210): line.append(EMPTY)
+    elif pixel[0] in range(210, 250): line.append(DOOR_H)
+    elif pixel[0] in range(128, 169): line.append(SECRET_H)
+    else: line.append('ERROR')
  
   # Populate lines X
   lines_x.append(line)
@@ -76,21 +69,11 @@ for col in range(31):
     item_x = start_x+width_x*col
     item_y = start_y+width_y*row
     pixel = pixels[item_x, item_y]
-    if pixel[0] in range(0, 12):
-      line.append(WALL_V)
-      #print('WALL_V', item_x, item_y, pixels[item_x, item_y])
-    elif pixel[0] in range(170, 194):
-      line.append(EMPTY)
-      #print('EMPTY', item_x, item_y, pixels[item_x, item_y])
-    elif pixel[0] in range(195, 250):
-      line.append(DOOR_V)
-      #print('DOOR_V', item_x, item_y, pixels[item_x, item_y])
-    elif pixel[0] in range(128, 169):
-      line.append(SECRET_V)
-      #print('SECRET_V', item_x, item_y, pixels[item_x, item_y])
-    else:
-      print('ERROR', item_x, item_y, pixels[item_x, item_y])
-      line.append('ERROR')
+    if pixel[0] in range(0, 12): line.append(WALL_V)
+    elif pixel[0] in range(170, 194): line.append(EMPTY)
+    elif pixel[0] in range(195, 250): line.append(DOOR_V)
+    elif pixel[0] in range(128, 169): line.append(SECRET_V)
+    else: line.append('ERROR')
     
   # Populate lines Y
   lines_y.append(line)
